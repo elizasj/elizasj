@@ -1,0 +1,64 @@
+{
+    "devjobs": [
+        {
+            "title": "RAAR Label",
+            "year": "2017",
+            "location": "Paris, France",
+            "description": "webmaster, design and code",
+            "idNum": "dev3"
+        },
+        {
+            "title": "Bright",
+            "year": "2017",
+            "location": "Berlin, Germany",
+            "description": "front end maintenance and updates over the course of a year",
+            "idNum": "dev2"
+        },
+        {
+            "title": "itnig",
+            "year": "2016",
+            "location": "Barcelona, Spain",
+            "description": "brand & site overhaul & re-design",
+            "idNum": "dev1"
+        }
+    ],
+    "residencies": [
+        {
+            "title": "Temp Studio",
+            "year": "November 2017",
+            "location": "Lisbon, Portugal",
+            "description": "",
+            "idNum": "res3"
+        },
+        {
+            "title": "GRLFR @ la Gaité Lyrique",
+            "year": "Jan-Dec 2013",
+            "location": "Paris, France",
+            "description": "",
+            "idNum": "res3"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Unicorns Fart Pixels",
+            "year": "September 2017",
+            "location": "internet",
+            "description": "",
+            "idNum": "prjc2"
+        },
+        {
+            "title": "Weizenbaum Bot",
+            "year": "May 2017",
+            "location": "internet",
+            "description": "",
+            "idNum": "prjc1"
+        }
+    ],
+    "socials": {
+        "twitter":"https://twitter.com/iamelizasj",
+        "github":"https://github.com/elizasj",
+        "dribble":"https://dribbble.com/elizasj",
+        "vimeo":"https://vimeo.com/iamelizasj",
+        "instagram":"https://www.instagram.com/iamelizasj/"
+    }
+}

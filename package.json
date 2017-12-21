@@ -1,0 +1,31 @@
+{
+  "name": "gatsby-starter-default",
+  "description": "elizasj",
+  "version": "1.0.0",
+  "author": "maesj",
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {
+    "api": "node projectsAPI.js",
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "gatsby": "^1.9.130",
+    "gatsby-link": "^1.6.28",
+    "gatsby-plugin-react-helmet": "^1.0.8",
+    "gatsby-plugin-styled-components": "^2.0.2",
+    "gatsby-source-filesystem": "^1.5.11",
+    "gatsby-transformer-json": "^1.0.14",
+    "prop-types": "^15.6.0",
+    "styled-components": "^2.2.4"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "devDependencies": {
+    "prettier": "^1.8.2"
+  }
+}
