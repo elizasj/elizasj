@@ -2,18 +2,18 @@ import React from 'react';
 import styled from 'styled-components';
 import PropTypes from 'prop-types';
 
-const StyledH1 = styled.h1`
-color: red;
-`;
-
+const AboutMe = styled.div`
+    margin-top: 8rem;
+    font-size: 1.1em;
+`
 
 const Header = props => {
     return(
-        <div>
-           <StyledH1>{props.title}</StyledH1>
-            <p>{props.tagline}</p>
-            <p>{props.summary}</p>
-        </div>
+        <AboutMe className='measure-wide'>
+           <h1>{props.title}</h1>
+           <p>{props.tagline}</p>
+           <p>{props.summary}</p>
+        </AboutMe>
     )
 }
 

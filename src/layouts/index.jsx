@@ -13,7 +13,7 @@ const TemplateWrapper = ({ children, data }) => (
       title="eliza struthers-jobin - web developer"
       meta={[
         { name: 'description', content: 'I make things that live on the internet' },
-        { name: "viewport", content: "width=device-width, initial-scale=1.0" }
+        { name: "viewport", content: "width=device-width, initial-scale=1" }
       ]}
     />
     <div>

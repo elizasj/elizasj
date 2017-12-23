@@ -1,57 +1,95 @@
-{
+{   "base": {
+     "tagline": "I make things that live on the internet",
+     "summary": "I’m a creative who likes to experiment with sound visualisation and explore the many paradigms of perception by creating playful experiences in the browser. Originally from Montreal, Canada, I currently live in Paris, France and work as a Front-End Developer at Scaleway. I’m also part of the new media art collective GRLFR, and I write and run the creative coding blog unicornsfartpixels.com."
+    },
     "devjobs": [
         {
             "title": "RAAR Label",
             "year": "2017",
             "location": "Paris, France",
             "description": "webmaster, design and code",
-            "idNum": "dev3"
+            "idNum": "dev3",
+            "url":"http://www.raar.fr/"
         },
         {
             "title": "Bright",
             "year": "2017",
             "location": "Berlin, Germany",
             "description": "front end maintenance and updates over the course of a year",
-            "idNum": "dev2"
+            "idNum": "dev2",
+            "url":"https://brig.ht/"
         },
         {
             "title": "itnig",
             "year": "2016",
             "location": "Barcelona, Spain",
             "description": "brand & site overhaul & re-design",
-            "idNum": "dev1"
+            "idNum": "dev1",
+            "url":"http://itnig.net/"
         }
     ],
     "residencies": [
         {
             "title": "Temp Studio",
-            "year": "November 2017",
+            "year": "11/2017",
             "location": "Lisbon, Portugal",
-            "description": "",
-            "idNum": "res3"
+            "description": "Temp Studio is a ‘artist-in-residence’ studio space with a focus on digital experiments.",
+            "idNum": "res2",
+            "url":"http://temp-studio.com/"
         },
         {
-            "title": "GRLFR @ la Gaité Lyrique",
-            "year": "Jan-Dec 2013",
+            "title": "La Gaité Lyrique",
+            "year": "2013",
             "location": "Paris, France",
-            "description": "",
-            "idNum": "res3"
+            "description": "Maison de création ouverte en plein cœur de Paris, la Gaîté Lyrique accueille des artistes en résidence et publie régulièrement des appels à projets artistiques en lien avec sa programmation.",
+            "idNum": "res1",
+            "url":"https://gaite-lyrique.net/appels-a-projet"
         }
     ],
     "projects": [
         {
             "title": "Unicorns Fart Pixels",
-            "year": "September 2017",
+            "year": "09/2017",
             "location": "internet",
-            "description": "",
-            "idNum": "prjc2"
+            "description": "an online notebook cataloguing the always expanding web development landscape & creative side of code.",
+            "idNum": "prjc2",
+            "url":"http://www.unicornsfartpixels.com/"
         },
         {
             "title": "Weizenbaum Bot",
-            "year": "May 2017",
+            "year": "05/2017",
             "location": "internet",
-            "description": "",
-            "idNum": "prjc1"
+            "description": "ELIZA was created by Joseph Weizenbaum to demonstrate the superficiality of communication between man and machine. MIT AI Lab, '64-66",
+            "idNum": "prjc1",
+            "url":"https://twitter.com/weizenbaumbot"
+        }
+    ],
+    "writing": [
+        {
+            "title": "Where are you from? Internet.",
+            "year": "05/2017",
+            "location": "internet",
+            "description": "IAM Weekend 17 Recap — the Renaissance of Utopias",
+            "idNum": "medium3",
+            "url":"https://medium.com/@iamelizasj/where-are-you-from-internet-19a9845503e"
+
+        },
+        {
+            "title": "Code, Data & the Visual Arts",
+            "year": "01/2017",
+            "location": "internet",
+            "description": "Consider for a moment that data has no a specific “look” or “feel”. It has no texture. At its most raw, this ‘material’ is simply information, a sequence of intangible 0’s and 1's. But hidden within data are clues, tidbits, morsels of potential stories that artists can draw upon to give shape and consistency to the creativity that drives them.",
+            "idNum": "medium2",
+            "url":"https://medium.com/@iamelizasj/code-data-the-visual-arts-60c6a2766bcc"
+        },
+        {
+            "title": "Technology leads the way for the convergence of science & art",
+            "year": "07/2016",
+            "location": "internet",
+            "description": "Another edition of Sónar has come and gone leaving a trail of positive reviews in it’s wake, for the plethora of diverse musical acts on the docket but also for it’s ability to seamlessly intertwine it’s younger SONAR + D tech conference counterpart into the mix.",
+            "idNum": "medium1",
+            "url":"https://medium.com/bright-journal/s%C3%B3nar-2016-technology-leads-the-way-for-the-convergence-of-science-art-aace6d6496d3"
+
         }
     ],
     "socials": {

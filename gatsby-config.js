@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `elizasj`
+    title: `eliza sj`
   },
   plugins: [
     `gatsby-transformer-json`,
