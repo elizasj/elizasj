@@ -6,9 +6,6 @@ import styled from 'styled-components';
 import Header from '../Header';
 import WorkList from '../WorkList';
 import Socials from '../Socials';
-
-import checkText from '../checkText';
-
 // recents
 const work = 'Recent Work'
 const residencies = 'Residencies'
