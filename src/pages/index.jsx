@@ -7,6 +7,8 @@ import Header from '../Header';
 import WorkList from '../WorkList';
 import Socials from '../Socials';
 
+import checkText from '../checkText';
+
 // recents
 const work = 'Recent Work'
 const residencies = 'Residencies'
@@ -15,7 +17,7 @@ const writing = 'Writing'
 
 const IndexPage = ({ data }) => (
   <div>
-    <div className=''>
+    <div className='base'>
     <Header 
       title={data.site.siteMetadata.title}
       tagline={eliza.base.tagline}
@@ -47,7 +49,7 @@ const IndexPage = ({ data }) => (
     </div>
   </div>
 );
-
+    
 export default IndexPage;
 export const query = graphql`
   query AboutQuery {

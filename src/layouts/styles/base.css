@@ -47,6 +47,14 @@ a:hover {
   cursor:pointer
 }
 
+.y-highlight:before,
+.y-highlight:hover:before,
+.y-highlight,
+.p-highlight,
+.b-highlight {
+  color: #3b3f4d;
+}
+
 .y-highlight:before {
   content: "";
   position: absolute;
@@ -68,6 +76,15 @@ a:hover {
 .p-highlight:hover {
   visibility: visible;
   color:#f60c80;
+  transition: color 0.4s ease-in-out;
+}
+
+.b-highlight {
+  font-weight: 700;
+}
+
+.b-highlight:hover {
+  color: #65D1E9;
   transition: color 0.4s ease-in-out;
 }
 
