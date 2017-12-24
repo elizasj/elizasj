@@ -14,11 +14,9 @@ const writing = 'Writing'
 
 const IndexPage = ({ data }) => (
   <div>
-    <div className='base'>
+    <div className='base measure-wide'>
     <Header 
       title={data.site.siteMetadata.title}
-      tagline={eliza.base.tagline}
-      summary={eliza.base.summary}
     />
 
     <Socials 

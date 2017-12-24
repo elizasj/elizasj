@@ -1,7 +1,4 @@
-{   "base": {
-     "tagline": "I make things that live on the internet",
-     "summary": "I’m a creative who likes to experiment with sound visualisation and explore the many paradigms of perception by creating playful experiences in the browser. Originally from Montreal, Canada, I currently live in Paris, France and work as a Front-End Developer at <a class='b-highlight' href='https://www.scaleway.com/'>Scaleway</a>. I’m also part of the new media art collective <a class='b-highlight' href='http://graffitiresearchlab.fr/'>GRLFR</a>, and I write and run the creative coding blog <a class='b-highlight' href='http://www.unicornsfartpixels.com/'>unicornsfartpixels.com.</a>"
-    },
+{   
     "devjobs": [
         {
             "title": "RAAR Label",
