@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'gatsby-link';
 import styled from 'styled-components';
 import PropTypes from 'prop-types';
 
@@ -28,6 +29,7 @@ const Socials = props => {
 }
 
 Socials.propTypes = {
-    socials: PropTypes.object,
+    socials: PropTypes.object
 }
+
 export default Socials;
