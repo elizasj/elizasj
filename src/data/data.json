@@ -27,7 +27,15 @@
     ],
     "residencies": [
         {
-            "title": "Temp Studio",
+            "title": "Temp Studio #2",
+            "year": "05/2018",
+            "location": "Lisbon, Portugal",
+            "description": "Temp Studio is a ‘artist-in-residence’ studio space with a focus on digital experiments.",
+            "idNum": "res3",
+            "url":"http://temp-studio.com/"
+        },
+        {
+            "title": "Temp Studio #1",
             "year": "11/2017",
             "location": "Lisbon, Portugal",
             "description": "Temp Studio is a ‘artist-in-residence’ studio space with a focus on digital experiments.",
@@ -44,6 +52,14 @@
         }
     ],
     "projects": [
+        {
+            "title": "Bloop 003",
+            "year": "05/2018",
+            "location": "internet",
+            "description": "bloop is a generative sound visualization experiment, so make sure your tab's audio icon is set to 'on',otherwise nothing will happen on your screen. Plays well on desktop with Chrome & Firefox. Best experienced with headphones.",
+            "idNum": "prjc3",
+            "url":"https://elizasj.github.io/bloopV3/"
+        },
         {
             "title": "Unicorns Fart Pixels",
             "year": "09/2017",
