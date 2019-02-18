@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,700|Roboto:500,700,900&subset=latin-ext');
+@import url("https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,700|Roboto:500,700,900&subset=latin-ext");
 
 /* base styles */
 :root {
@@ -15,7 +15,8 @@
   box-sizing: border-box;
 }
 
-html, body {
+html,
+body {
   min-height: 100%;
 }
 
@@ -27,7 +28,7 @@ body {
   background-color: #fcfcfc;
   color: #3b3f4d;
   overflow-x: hidden;
-  font-family: 'Nunito Sans' ,sans-serif;
+  font-family: "Nunito Sans", sans-serif;
   font-weight: 400;
 }
 
@@ -44,7 +45,7 @@ a {
 
 a:hover {
   color: #000;
-  cursor:pointer
+  cursor: pointer;
 }
 
 .content {
@@ -67,7 +68,6 @@ a:hover {
 .footer-info > li {
   padding-right: 2em;
 }
-
 
 .y-highlight:before,
 .y-highlight:hover:before,
@@ -95,20 +95,20 @@ a:hover {
   transform: scaleX(1);
 }
 
-.p-highlight:hover {
+/* .p-highlight:hover {
   visibility: visible;
   color:#f60c80;
   transition: color 0.4s ease-in-out;
-}
+} */
 
 .b-highlight {
   font-weight: 700;
 }
 
-.b-highlight:hover {
+/* .b-highlight:hover {
   color: #65D1E9;
   transition: color 0.4s ease-in-out;
-}
+} */
 
 .about-me {
   display: flex;
@@ -123,4 +123,3 @@ a:hover {
 .measure-xwide {
   max-width: 51em;
 }
-

@@ -4,25 +4,25 @@
             "title": "RAAR Label",
             "year": "2017",
             "location": "Paris, France",
-            "description": "webmaster, design and code",
+            "description": "interactive, javascript, glsl",
             "idNum": "dev3",
             "url":"http://www.raar.fr/"
+        },
+        {
+            "title": "Christmas XP",
+            "year": "2018",
+            "location": "Paris, France",
+            "description": "audio reactive, three.js & glsl",
+            "idNum": "dev2",
+            "url":"https://christmasexperiments.com/2018/21/xmas/"
         },
         {
             "title": "Bright",
             "year": "2017",
             "location": "Berlin, Germany",
-            "description": "front end maintenance and updates over the course of a year",
-            "idNum": "dev2",
-            "url":"https://brig.ht/"
-        },
-        {
-            "title": "itnig",
-            "year": "2016",
-            "location": "Barcelona, Spain",
-            "description": "brand & site overhaul & re-design",
+            "description": "javascript, python",
             "idNum": "dev1",
-            "url":"http://itnig.net/"
+            "url":"https://brig.ht/"
         }
     ],
     "residencies": [
@@ -49,32 +49,6 @@
             "description": "Maison de création ouverte en plein cœur de Paris, la Gaîté Lyrique accueille des artistes en résidence et publie régulièrement des appels à projets artistiques en lien avec sa programmation.",
             "idNum": "res1",
             "url":"https://gaite-lyrique.net/appels-a-projet"
-        }
-    ],
-    "projects": [
-        {
-            "title": "Bloop 003",
-            "year": "05/2018",
-            "location": "internet",
-            "description": "bloop is a generative sound visualization experiment, so make sure your tab's audio icon is set to 'on',otherwise nothing will happen on your screen. Plays well on desktop with Chrome & Firefox. Best experienced with headphones.",
-            "idNum": "prjc3",
-            "url":"https://elizasj.github.io/bloopV3/"
-        },
-        {
-            "title": "Unicorns Fart Pixels",
-            "year": "09/2017",
-            "location": "internet",
-            "description": "an online notebook cataloguing the always expanding web development landscape & creative side of code.",
-            "idNum": "prjc2",
-            "url":"http://www.unicornsfartpixels.com/"
-        },
-        {
-            "title": "Weizenbaum Bot",
-            "year": "05/2017",
-            "location": "internet",
-            "description": "ELIZA was created by Joseph Weizenbaum to demonstrate the superficiality of communication between man and machine. MIT AI Lab, '64-66",
-            "idNum": "prjc1",
-            "url":"https://twitter.com/weizenbaumbot"
         }
     ],
     "writing": [
@@ -108,7 +82,6 @@
     "socials": {
         "twitter":"https://twitter.com/iamelizasj",
         "github":"https://github.com/elizasj",
-        "dribble":"https://dribbble.com/elizasj",
         "vimeo":"https://vimeo.com/iamelizasj",
         "instagram":"https://www.instagram.com/iamelizasj/"
     }

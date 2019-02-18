@@ -37,10 +37,6 @@ const IndexPage = ({ data }) => (
             work={eliza.residencies} 
           />
           <WorkList 
-            header={projects} 
-            work={eliza.projects} 
-          />
-          <WorkList 
             header={writing} 
             work={eliza.writing} 
           />
